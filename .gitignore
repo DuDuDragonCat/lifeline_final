@@ -1,0 +1,5 @@
+data/*
+.Rhistory
+.ipynb_checkpoints
+.Rproj.user
+.vscode/*
